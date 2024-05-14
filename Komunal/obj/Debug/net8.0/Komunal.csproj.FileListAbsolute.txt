@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\bin\Debug\net8.0\Komunal.exe
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\bin\Debug\net8.0\Komunal.deps.json
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\bin\Debug\net8.0\Komunal.runtimeconfig.json
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\bin\Debug\net8.0\Komunal.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\bin\Debug\net8.0\Komunal.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\Komunal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\Komunal.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\Komunal.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\Komunal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\Komunal.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\refint\Komunal.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\Komunal.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\Komunal.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask2\Komunal\Komunal\obj\Debug\net8.0\ref\Komunal.dll
